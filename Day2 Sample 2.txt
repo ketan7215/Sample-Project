@@ -5,10 +5,3 @@ this is demo file that contains How to create repository & Push File in it
 
 Day 1 Done
 
-Day 2 Start
-hello
-i m ketan
-
-Done
-
-Day 3
